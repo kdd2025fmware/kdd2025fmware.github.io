@@ -9,4 +9,4 @@ Hitchikers guide to the FMware (WIP)
 + Talk 4, by TBD
 
 
-*This website template was graciously borrowed from [https://mmrec.github.io/tutorial/kdd2024/](KDD 2024 Tutorial on Multimodal Pretraining, Adaptation, and Generation for Recommendation), thank you!*
+*This website template was graciously borrowed from [KDD 2024 Tutorial on Multimodal Pretraining, Adaptation, and Generation for Recommendation](https://mmrec.github.io/tutorial/kdd2024/), thank you!*
