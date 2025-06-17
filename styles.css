@@ -36,7 +36,7 @@ header {
     height: 100%;
     /* background-image: url('cover.jpg'); Replace with your cover image */
     /* background-image: url('cover-KDD25-Hero1-background.jpg'); /* Replace with your cover image */
-    background-image: url('cover_v3.JPG'); /* Replace with your cover image */
+    background-image: url('./images/cover_v3.JPG'); /* Replace with your cover image */
     background-size: cover;
     background-position: center;
     display: flex;
